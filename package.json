@@ -1,0 +1,19 @@
+{
+  "name": "delijnapp",
+  "version": "1.0.0",
+  "description": "Rebranding and remaking of the DeLijn App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funkykieken/delijn.git"
+  },
+  "author": "De Craecker Jens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Funkykieken/delijn/issues"
+  },
+  "homepage": "https://github.com/Funkykieken/delijn#readme"
+}

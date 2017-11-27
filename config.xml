@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>1718_CMP5_DeLijnApp</name>
+    <description>
+        'Rebranding' and 'remaking' the DeLijn app.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        WMP5_Team: Coralie Adriaensen | Jens De Craecker | Jens Van der Auwera | Youri Verhoeven | Dennis Vermeiren
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
