@@ -1,14 +1,15 @@
-# A Blank PhoneGap App
+# De Lijn App
 
 ## Usage
 
-### PhoneGap CLI
+  Used the DeLijn Api, which was open source: https://delijn.docs.apiary.io/
 
-    $ phonegap create my-app --template blank
+### Run the app?
+
+    TBA
 
 ### Desktop
 
 In your browser, open the file:
 
     /www/index.html
-
